@@ -2,6 +2,9 @@
 
 This repository is a compilation of data visualization notebooks where I put what I learned and practiced. Below is a breakdown of every plot type covered in the notebooks, grouped by library.
 
+![image](https://github.com/user-attachments/assets/767706b8-89e6-4c14-bfd9-bffbe2f230bb)
+
+
 ## Matplotlib
 **Viz_1.ipynb**
 - line plots
